@@ -43,7 +43,7 @@
     "@huggingface/hub": "^2.12.0",
     "onnxruntime-node": "1.26.0",
     "progress": "^2.0.3",
-    "tar": "^7.5.15"
+    "tar": "^7.5.21"
   },
   "devDependencies": {
     "@internal/ai-sdk-v4": "workspace:*",
