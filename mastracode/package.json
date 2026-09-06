@@ -108,7 +108,7 @@
     "@aws-sdk/credential-providers": "^3.864.0",
     "@ast-grep/napi": "^0.42.0",
     "@earendil-works/pi-tui": "^0.79.4",
-    "@hono/node-server": "^1.19.11",
+    "@hono/node-server": "^1.19.15",
     "@mastra/agent-browser": "workspace:*",
     "@mastra/auth-workos": "workspace:*",
     "@mastra/core": "workspace:*",
