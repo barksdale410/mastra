@@ -60,7 +60,7 @@
     "ai": "^5.0.185",
     "eslint": "^10.4.1",
     "get-port": "^7.1.0",
-    "hono": "^4.12.8",
+    "hono": "^4.13.7",
     "hono-mcp-server-sse-transport": "0.0.7",
     "tsup": "^8.5.1",
     "tsx": "catalog:",
